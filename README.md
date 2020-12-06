@@ -1,4 +1,4 @@
 # FreeMusicVisualizer
-# ALways Wanted Music Visualizer There Ya Go!
-# you  Are on Android Just Visit Are Github Pages!
+# Always Wanted Music Visualizer There Ya Go!
+# You  Are on Android Just Visit Are Github Pages!
 # https://bluelands.github.io/FreeMusicVisualizer
